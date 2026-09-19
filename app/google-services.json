@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082724496931",
+    "project_id": "kalua-9b39c",
+    "storage_bucket": "kalua-9b39c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082724496931:android:ebf9d94783e7a8db136396",
+        "android_client_info": {
+          "package_name": "com.tracker.locator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY53ZK55TU9LamOhY4DZCa_KnBeaXWxis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082724496931:android:47fdaa86021902be136396",
+        "android_client_info": {
+          "package_name": "com.tracker.phonefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY53ZK55TU9LamOhY4DZCa_KnBeaXWxis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
