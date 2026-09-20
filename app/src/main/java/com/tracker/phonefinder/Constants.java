@@ -16,8 +16,6 @@ public class Constants {
     public static final String ACTION_EXECUTE_PENDING_LOCATE = "com.tracker.phonefinder.EXECUTE_PENDING_LOCATE";
     public static final String ACTION_LOCATE_NOW = "com.tracker.phonefinder.LOCATE_NOW";
 
-    // Replace with your deployed Cloud Function base URL, e.g.
-    // https://us-central1-yourproject.cloudfunctions.net
-    public static final String CLOUD_FUNCTION_BASE_URL = "https://REPLACE_ME.cloudfunctions.net";
+    public static final String CLOUD_FUNCTION_BASE_URL = "https://ab-fzjz.onrender.com";
     public static final String KEY_FCM_TOKEN = "fcm_token";
 }
